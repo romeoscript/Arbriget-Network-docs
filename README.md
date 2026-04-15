@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="assets/logo.png" alt="Arbridge Network" width="420" />
-</p>
-
 # Welcome to Arbridge Network
+
+<div align="center"><img src=".gitbook/assets/logo.png" alt="Arbridge Network" width="420"></div>
+
+## Welcome to Arbridge Network
 
 Arbridge Network is an automated blockchain market execution ecosystem built on a singular conviction: that the greatest opportunities in blockchain markets are not found in speculation — they are found in the structure of the market itself.
 
@@ -10,7 +10,7 @@ The Web3 ecosystem is one of the most dynamic financial systems ever created, ye
 
 Arbridge Network exists to close that gap.
 
-## How to use these docs
+### How to use these docs
 
 Start with the [Arbridge Mission](introduction/the-arbridge-vision.md), then explore [PULSE](automation-and-tools/pulse-engine.md) — the intelligent system at the center of the ecosystem — and the three operational tiers that bring it to members: [Pulse Foundation, Grid, and Prime](automation-and-tools/pulse-foundation-grid-and-prime.md).
 

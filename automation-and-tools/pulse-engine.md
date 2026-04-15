@@ -1,14 +1,14 @@
-<p align="center">
-  <img src="../assets/logo.png" alt="Arbridge Network" width="280" />
-</p>
+# The Pulse Engine
 
-# Introducing PULSE
+<div align="center"><img src="../.gitbook/assets/logo.png" alt="Arbridge Network" width="280"></div>
+
+## Introducing PULSE
 
 At the core of Arbridge lies **PULSE** — an intelligent system featuring Smart Assistants and Advisors, engineered to autonomously identify and capitalize on market opportunities across multiple blockchain ecosystems. By moving beyond manual execution and disjointed tools, PULSE provides users with seamless access to sophisticated arbitrage strategies, cross-chain swaps, and other automated trading mechanisms, all within a unified, streamlined platform.
 
 Much like a heart that never ceases to beat, PULSE operates continuously — **24/7** — delivering consistent performance without downtime. Its architecture has been rigorously tested across diverse blockchain environments, validating both the robustness of its execution model and the system's adaptability to dynamic market conditions. The result is a resilient, always-on infrastructure that ensures users can harness automated market intelligence and opportunities with confidence and precision.
 
-## PULSE Smart Assistants & Advisors
+### PULSE Smart Assistants & Advisors
 
 Arbridge's **Integrated Data Network** delivers real-time streaming of on-chain trades executed by our intelligent AI agents, providing immediate insight into market activity.
 
