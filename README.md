@@ -1,33 +1,19 @@
-# Arbriget Network Docs
+# Welcome to Arbridge Network
 
-Official documentation for the **Arbriget Network** project.
+Arbridge Network is a digital execution environment engineered for precision. It unites artificial intelligence, probabilistic modeling, and cross-chain automation into a single operating fabric designed to translate market inefficiencies into measurable outcomes.
 
-## Overview
+Rather than functioning as a conventional trading application, Arbridge operates as an intelligent gateway to decentralized liquidity. Pulse — our proprietary execution engine — continuously observes blockchain markets, validates opportunity surfaces through statistical modeling, and routes capital across networks with millisecond discipline.
 
-This repository contains the documentation, guides, and reference material for the Arbriget Network platform.
+Members enter a secured operational framework where machine intelligence, audited infrastructure, and human oversight combine to deliver a trading posture that is consistent, transparent, and emotion-free.
 
-## Getting Started
+## What Arbridge stands for
 
-Clone the repository:
+- **Automation with accountability** — every execution is logged, reproducible, and verifiable on-chain.
+- **Intelligence over intuition** — opportunity capture is driven by data, not by sentiment.
+- **Access without complexity** — advanced arbitrage infrastructure made available to members at every experience level.
 
-```bash
-git clone https://github.com/romeoscript/Arbriget-Network-docs.git
-cd Arbriget-Network-docs
-```
+## How to use these docs
 
-## Contents
+These documents describe the vision, the products, the membership, the governance framework, and the laboratories that together form Arbridge Network. Start with the [Arbridge Vision](introduction/the-arbridge-vision.md), then explore [Pulse](automation-and-tools/pulse-engine.md) — the engine at the center of everything.
 
-- **Guides** — Step-by-step tutorials and how-to articles
-- **Reference** — API and technical reference documentation
-- **Examples** — Code samples and use case examples
-
-## Contributing
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-topic`)
-3. Make your changes
-4. Open a pull request
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Welcome aboard.
