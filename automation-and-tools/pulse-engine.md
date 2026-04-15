@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/logo.png" alt="Arbridge Network" width="280" />
+</p>
+
 # Introducing PULSE
 
 At the core of Arbridge lies **PULSE** — an intelligent system featuring Smart Assistants and Advisors, engineered to autonomously identify and capitalize on market opportunities across multiple blockchain ecosystems. By moving beyond manual execution and disjointed tools, PULSE provides users with seamless access to sophisticated arbitrage strategies, cross-chain swaps, and other automated trading mechanisms, all within a unified, streamlined platform.

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Arbridge Network" width="420" />
+</p>
+
 # Welcome to Arbridge Network
 
 Arbridge Network is an automated blockchain market execution ecosystem built on a singular conviction: that the greatest opportunities in blockchain markets are not found in speculation — they are found in the structure of the market itself.

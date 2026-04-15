@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/logo.png" alt="Arbridge Network" width="320" />
+</p>
+
 # Arbridge Mission
 
 Our mission is to create an ecosystem where **automation, education, and decentralized systems** operate seamlessly in alignment.
