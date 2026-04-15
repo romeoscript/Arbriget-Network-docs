@@ -15,7 +15,7 @@
 ## Automation and Tools
 
 * [The Pulse Engine](automation-and-tools/pulse-engine.md)
-* [Arbridge Horizon and Arbridge Vertex](automation-and-tools/arbridge-horizon-and-vertex.md)
+* [PULSE Foundation, Grid, and Prime](automation-and-tools/pulse-foundation-grid-and-prime.md)
 
 ## Learning and Resources
 

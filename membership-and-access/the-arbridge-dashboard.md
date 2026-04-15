@@ -1,23 +1,11 @@
-# The Arbridge Dashboard
+# Arbridge Dashboard
 
-The Arbridge Dashboard is the member's command surface — a single interface through which every operational signal is observed, interpreted, and acted upon.
+The dashboard serves as the **central command center** — a personal data cockpit that empowers members with full oversight of their engagement within the ecosystem. From this interface, users can access PULSE, monitor performance metrics, and track real-time market telemetry through secure, API-driven visualizations.
 
-## What the dashboard exposes
+## A unified view
 
-- **Live execution feed** — transactions opened, routed, and settled by Pulse in real time
-- **Cross-chain position map** — capital distribution across supported networks and venues
-- **Performance analytics** — realized and unrealized outcomes, broken down by strategy module
-- **Opportunity telemetry** — current spread surfaces Pulse is monitoring, with probability scores
-- **Audit trail** — immutable history of every action taken on behalf of the member
+Every data point, system update, and actionable signal is intelligently consolidated into a unified interface, providing a seamless view of operational performance. This design allows members to interact directly with Arbridge's automation engines, ensuring that insights, alerts, and market movements are presented in real time.
 
-## Design principles
+## From data to intelligence
 
-The dashboard is built around three ideas:
-
-1. **Nothing is hidden.** Every trade, every route, every fee is visible and auditable.
-2. **Signal over noise.** The surface highlights the decisions and outcomes that matter; supporting telemetry is one click away.
-3. **Operational parity.** What members see on the dashboard matches what the Arbridge operations desk sees internally — there is no second-tier view.
-
-## Access
-
-The dashboard is available to members through the Arbridge web application following verification. Session state is protected by encrypted transport, short-lived tokens, and optional hardware-bound authentication.
+By integrating analytics, AI-driven recommendations, and live telemetry in a single control panel, the dashboard transforms complex system data into **actionable intelligence** — giving users both clarity and control over their digital ecosystem engagement.

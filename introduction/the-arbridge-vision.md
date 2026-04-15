@@ -1,23 +1,11 @@
-# The Arbridge Vision
+# Arbridge Mission
 
-Arbridge Network exists to close the gap between where liquidity lives and where opportunity emerges. Decentralized markets are fragmented by design — each blockchain, each venue, each pool prices risk differently. That fragmentation is a source of inefficiency, and inefficiency, captured intelligently, becomes yield.
+Our mission is to create an ecosystem where **automation, education, and decentralized systems** operate seamlessly in alignment.
 
-Our vision is a single environment where three forces operate in concert: **automation**, **education**, and **decentralized infrastructure**. Members are not spectators — they are participants in a system engineered to convert complexity into clarity.
+We have built a cross-chain arbitrage infrastructure powered by intelligent Smart Assistants designed to identify and execute market opportunities automatically across multiple blockchain ecosystems. Instead of relying on manual trading or fragmented tools, our technology allows users to access sophisticated arbitrage strategies and cross-chain swaps through a streamlined, automated system.
 
-## The three pillars
+## Simplicity at the core
 
-**Transparency in operations.** Every transaction initiated by Pulse is recorded, auditable, and reproducible. Execution is never outsourced to an opaque counterparty.
+What differentiates our approach is simplicity at the core. Many companies overengineer their systems and lose efficiency. We built our platform around the fundamentals of market execution: **precision, speed, and cross-chain reach**.
 
-**Competency in data.** Members are given the tools to understand how opportunities are surfaced, validated, and executed. Education is not optional — it is infrastructure.
-
-**Accuracy in technology.** Pulse does not react on heuristics. It validates through probabilistic modeling before capital ever moves.
-
-## Who we serve
-
-Arbridge is designed for three distinct audiences who share a common ambition:
-
-- Newcomers who want exposure to digital-asset strategies without technical overhead.
-- Experienced market participants seeking to scale operational reach beyond manual capability.
-- Allocators looking for income streams uncorrelated with directional market exposure.
-
-Across all three, our posture is the same: deliver structurally sound execution, document it openly, and let the data speak.
+Our AI agent focuses on detecting price inefficiencies and executing them in real time, using advanced arbitrage algorithms combined with cross-chain execution technology.

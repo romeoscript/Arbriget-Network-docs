@@ -1,33 +1,29 @@
-# Funding and Withdrawals
+# Deposits and Withdrawals
 
-Arbridge Network operates entirely in digital assets. All value moves across audited channels with on-chain documentation, and nothing passes through opaque intermediaries.
+## Funding
 
-## Supported funding assets
+Funding within the Arbridge ecosystem is conducted using widely supported digital assets, including:
 
-- **USDT (TRC20)**
-- **USDT (ERC20)**
-- **BTC** (native Bitcoin network)
+- **USDT** (TRC20 / ERC20)
+- **ETH**
+- **BTC**
+- Other approved cryptocurrencies
 
-Funding transactions are encrypted end-to-end and processed through gateways inside the Arbridge infrastructure. Confirmation times follow the underlying network's block cadence.
+The infrastructure is designed to ensure that all transactions are executed through encrypted protocols and secure gateway mechanisms, minimizing risk while maintaining high standards of transactional integrity. By leveraging blockchain-based settlement layers, Arbridge enables efficient, borderless value transfer without reliance on traditional financial intermediaries.
 
-## Withdrawal parameters
+Once initiated, each transaction is validated and recorded on its respective blockchain, creating an **immutable audit trail** that enhances transparency and user confidence. This architecture not only secures the movement of assets but also ensures that all funding activity remains fully verifiable and resistant to tampering within the broader ecosystem — underscoring a strong commitment to **self-custody and user-controlled asset ownership**.
+
+## Withdrawals
+
+The withdrawal system is structured to balance accessibility with operational stability.
 
 | Parameter | Value |
 |---|---|
-| Processing window | Within 24 hours of request |
-| Minimum per transaction | $20 USD-equivalent |
-| Frequency | One withdrawal per day, per member |
-| Verification | On-chain hash provided for each disbursement |
+| Processing window | Within 24 hours |
+| Minimum per transaction | **$50 USD-equivalent** |
+| Frequency | Once per day, per member |
+| Verification | Unique blockchain transaction hash issued per withdrawal |
 
-## How withdrawals are processed
+Each withdrawal is assigned a unique blockchain reference (transaction hash), allowing users to independently verify the status and completion of their transfers in real time.
 
-1. A member submits a withdrawal request from the dashboard.
-2. The request is queued for the next compliance-verified disbursement window.
-3. Funds are released to the member's designated wallet address.
-4. A blockchain reference is attached to the member's transaction history for independent verification.
-
-## Notes
-
-- Arbridge never retains custody beyond what is operationally required for execution.
-- Wallet addresses may be whitelisted for additional protection.
-- Withdrawal terms applicable to yield generated inside **Arbridge Vertex** follow the product's maturation schedule — see [Arbridge Horizon and Arbridge Vertex](../automation-and-tools/arbridge-horizon-and-vertex.md).
+For capital deployed in [Pulse Prime](../automation-and-tools/pulse-foundation-grid-and-prime.md), the 90-day maturation schedule and early-exit adjustment fee also apply.
