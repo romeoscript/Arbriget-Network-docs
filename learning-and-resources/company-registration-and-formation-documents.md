@@ -10,6 +10,16 @@ Arbridge Network operates as a duly registered legal entity. Documentation suppo
 - **Operating registrations** — licences and registrations held in the jurisdictions where Arbridge conducts regulated activity
 - **Audit and assurance records** — external reviews covering financial, operational, and information-security posture
 
+## Formation Documents
+
+{% file src="../assets/17154058_newinc_2026-04-13.pdf" %}
+Arbridge Network Ltd — UK Certificate of Incorporation (Companies House, 13 April 2026)
+{% endfile %}
+
+{% file src="../assets/04-28-26 - DE - Formation Document - ARBRIDGE NETWORK LLC.pdf" %}
+Arbridge Network LLC — Delaware Certificate of Formation (27 April 2026)
+{% endfile %}
+
 ## How to request access
 
 Verified members may request access to incorporation and registration records through the dashboard support channel. Requests are logged, reviewed, and fulfilled in accordance with Arbridge's data-minimization principles — documents are released to the requesting party in redacted form where redaction is necessary to protect third-party personal data.

@@ -5,6 +5,7 @@
 ## Introduction
 
 * [The Arbridge Vision](introduction/the-arbridge-vision.md)
+* [Market Definition](introduction/market-definition.md)
 
 ## Membership and Access
 
